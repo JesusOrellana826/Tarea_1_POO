@@ -1,0 +1,7 @@
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\bin\Debug\Tarea_01_POO_1_Jesus_Orellana.exe.config
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\bin\Debug\Tarea_01_POO_1_Jesus_Orellana.exe
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\bin\Debug\Tarea_01_POO_1_Jesus_Orellana.pdb
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\obj\Debug\Tarea_01_POO_1_Jesus_Orellana.csproj.AssemblyReference.cache
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\obj\Debug\Tarea_01_POO_1_Jesus_Orellana.csproj.CoreCompileInputs.cache
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\obj\Debug\Tarea_01_POO_1_Jesus_Orellana.exe
+C:\Users\Natali\OneDrive\Desktop\TERCER_CICLO\01_POO_1\EJERCICIOS_PRACTICOS\EJERCICIOS\Tarea_01_POO_1_Jesus_Orellana\obj\Debug\Tarea_01_POO_1_Jesus_Orellana.pdb
